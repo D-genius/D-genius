@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-genius
-- 👀 I’m interested in react js & frontend development(UI/UX)
-- 🌱 I’m currently learning django framework for backend
+- 👀 I’m interested in javascript frameworks & frontend development(UI/UX)
+- 🌱 I’m currently on django & laravel framework for backend & API endpoint configurations.
 - 💞️ I’m looking to collaborate on slack
 - 📫 How to reach me timothydiero254@gmail.com
 
